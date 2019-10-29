@@ -6,7 +6,7 @@ Created on Sun May 26 18:36:43 2019
 @author: trang
 """
 import pandas as pd
-import itert
+import itertools
 
 conversion = [0,2,0,2,2,0,1]
 channels_subset = ['Fb', 'GoogleAd', 'Email', 'Email,Fb', 'Fb,GoogleAd', 
